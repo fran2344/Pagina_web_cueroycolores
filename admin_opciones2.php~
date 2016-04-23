@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="0;url=pages/pruebax.php">
+<title>Área de administrador</title>
+<script language="javascript">
+    window.location.href = "pages/pruebax.php"
+</script>
+</head>
+<body>
+Go to <a href="pages/pruebax.php">/pages/prubax.php</a>
+</body>
+</html>
